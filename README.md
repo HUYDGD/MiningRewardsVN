@@ -14,7 +14,7 @@
 4. XONG!!!
 
 # Thông báo
-##### Đã cập nhật vào: 24/5/2029.
+##### Đã cập nhật vào: 24/5/2019.
 ##### Phiên bản: v1.5 (VIETNAMESE VERSION)
 ##### Tải về: https://github.com/GamerSoiCon/MiningRewardsVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
