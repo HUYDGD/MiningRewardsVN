@@ -16,3 +16,6 @@
 ##### Tải về: https://github.com/GamerSoiCon/MiningRewardsVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
 ```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
+
+# Youtube
+https://youtu.be/13gzJxgRYE8
