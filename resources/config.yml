@@ -1,0 +1,40 @@
+---
+# ID vật phẩm nhận được khi khai thác
+mining-reward-id: 381 # <- đây là id của Mắt Ender
+
+# Sử dụng & để đổi màu chữ
+prefix: "&8[&a&lMiningRewards&r&8] "
+
+# Title hiện lên (ngẫu nhiên) khi nhận được phần thưởng.
+titles:
+  - "Tuyệt vời ông mặt trời!"
+  - "Bà Tân Vlog nè bợn.~."
+  - "Ching-chong!"
+  - "Ora ora ora.."
+  - "Đăng kí Sói nhé ae ~"
+  - "Ăn tỏi không em?"
+
+# Sử dụng & để đổi màu chữ
+rewards:
+  1: # <- đây là id của Đá 
+    type: "item"
+    id: 1
+    meta: 0
+    count: 1
+    customName: "Default" # <- đây là tên mặc định
+    enchantments:
+      - "0:1" # ID:Level
+      - "1:1"
+      - "2:1"
+  2: # đây là id của Cỏ
+    type: "command"
+    command: "give {player} 1 1"
+    message: "&aBạn đã nhận được một phần thưởng!"
+
+reward-count-min: 1 # Số lượng phần thưởng tối thiểu mà người chơi có thể nhận được.
+reward-count-max: 5 # Số lượng phần thưởng tối đa mà người chơi có thể nhận được.
+
+chance: 100 # Cơ hội để nhận được phần thưởng.
+
+lengthOfAnimation: 20 # 4 đơn vị này = 1 giây (chỉnh thấp để giảm lag)
+...
