@@ -18,4 +18,4 @@
 ```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
 
 # Youtube
-https://youtu.be/13gzJxgRYE8
+[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/13gzJxgRYE8/0.jpg)](https://youtu.be/13gzJxgRYE8 "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
